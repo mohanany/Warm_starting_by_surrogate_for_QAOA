@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this codebase, please cite the associated paper when available and also cite this repository."
+title: "Behavior-Preserving Surrogate Pretraining for QAOA on Dense Weighted MaxCut"
+type: software
+authors:
+  - family-names: Hanany
+    given-names: Mohammad
+repository-code: "https://github.com/mohanany/Warm_starting_by_surrogate_for_QAOA"
+url: "https://github.com/mohanany/Warm_starting_by_surrogate_for_QAOA"
+keywords:
+  - QAOA
+  - MaxCut
+  - variational quantum algorithms
+  - warm-starting
+  - surrogate modeling
+  - transfer learning
+license: "NOASSERTION"
+preferred-citation:
+  type: article
+  title: "Behavior-Preserving Surrogate Pretraining for QAOA on Dense Weighted MaxCut"
+  authors:
+    - family-names: Hanany
+      given-names: Mohammad
+  year: 2026
+  url: "https://github.com/mohanany/Warm_starting_by_surrogate_for_QAOA"
