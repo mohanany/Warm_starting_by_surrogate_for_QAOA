@@ -198,5 +198,5 @@ For each instance, we track:
 - **Part 2:** Mathematical Foundations (QAOA circuit, SPSA, fingerprint metrics)
 - **Part 3:** Surrogate Families (powlaw, strength, block, circulant, lowrank)
 - **Part 4:** Implementation Details (code walkthrough)
-- **Part 5:** Experimental Design (hyperparameters, eval budget)
-- **Part 6:** Usage and Interpretation
+- **Part 5:**  Usage and Interpretation
+
