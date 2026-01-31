@@ -7,16 +7,3 @@
 
  The `WRITEUP_*` documents focus mostly on Stage II (the final pipeline), while Stage I notes live in `first_pipeline/`.
 
-## Repository structure
-
-- `behavior_surrogate_pipeline_v7_7_gpu.py`
-  - Stage II runnable script (CPU via NumPy, optional GPU via PyTorch).
-- `FINAL_RUN_OF_7.7_GPU.ipynb`
-  - Example notebook to run Stage II sweeps.
-- `transformers_baseline.ipynb`
-  - Development notebook used during earlier iterations.
-- `first_pipeline/`
-  - Stage I notebook + notes + figures.
-- `WRITEUP_*.md`
-  - Detailed technical writeups for Stage II.
-    ## Paper artifacts (figure reproduction)
